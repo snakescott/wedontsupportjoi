@@ -8,7 +8,9 @@
   - [August 15 2019](#august-15-2019)
   - [August 23 2019](#august-23-2019)
   - [August 27 2019](#august-27-2019)
+  - [August 28 2019](#august-28-2019)
   - [August 29 2019](#august-29-2019)
+  - [August 30 2019](#august-30-2019)
   - [September 4 2019](#september-4-2019)
   - [September 6 2019](#september-6-2019)
   - [September 7 2019](#september-7-2019)
@@ -53,11 +55,23 @@
   [Jeffrey Epstein's influence in the science world is a symptom of larger problems](https://web.archive.org/web/20190827193502/https://www.theguardian.com/commentisfree/2019/aug/27/jeffrey-epstein-science-mit-brockman)
   as an opinion piece in The Guardian.
 
+## August 28 2019
+
+- Richard Langer, in an
+  [interview with WBUR](https://www.wbur.org/edify/2019/08/28/media-lab-director-epstein-gets-public-support),
+  says "the tremendously good things he’s done for MIT and for the world — so far
+  outweigh the bad things" and "there are people who are gonna complain about
+  everything".
+
 ## August 29 2019
 
 - Arwa Mboya publishes
   [Why Joi Ito needs to resign](https://web.archive.org/web/20190829134632/https://thetech.com/2019/08/29/joi-ito-needs-to-resign)
   as a guest column in The Tech, MIT's student newspaper.
+
+## August 30 2019
+
+- Professor Leslie Kaelbling adds her name to wesupportjoi.org
 
 ## September 4 2019
 
