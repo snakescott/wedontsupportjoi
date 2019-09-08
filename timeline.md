@@ -6,6 +6,7 @@
 
 - [Timeline](#timeline)
   - [August 15 2019](#august-15-2019)
+  - [August 20 2019](#august-20-2019)
   - [August 23 2019](#august-23-2019)
   - [August 27 2019](#august-27-2019)
   - [August 29 2019](#august-29-2019)
@@ -27,7 +28,9 @@
   on the Media Lab's website.
 
 ## August 20 2019
-- Ethan Zuckerman [announces his resignation from the Media Lab](https://web.archive.org/web/20190821144626/http://www.ethanzuckerman.com/blog/2019/08/20/on-me-and-the-media-lab/).
+
+- Ethan Zuckerman
+  [announces his resignation from the Media Lab](https://web.archive.org/web/20190821144626/http://www.ethanzuckerman.com/blog/2019/08/20/on-me-and-the-media-lab/).
 
 ## August 23 2019
 
@@ -75,7 +78,8 @@
 
 ## September 6 2019
 
-- Anand Giridharadas [withdraws as a Disobedience Award juror](https://twitter.com/AnandWrites/status/1169947031806365696).
+- Anand Giridharadas
+  [withdraws as a Disobedience Award juror](https://twitter.com/AnandWrites/status/1169947031806365696).
 - Ronan Farrow publishes
   [How An Élite University Research Center Concealed Its Relationship with Jeffrey Epstein](https://web.archive.org/web/20190907033117/https://www.newyorker.com/news/news-desk/how-an-elite-university-research-center-concealed-its-relationship-with-jeffrey-epstein)
   in the New Yorker. This article contains many allegations that are in conflict with
