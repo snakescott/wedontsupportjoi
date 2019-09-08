@@ -6,6 +6,7 @@
 
 - [Timeline](#timeline)
   - [August 15 2019](#august-15-2019)
+  - [August 20 2019](#august-20-2019)
   - [August 23 2019](#august-23-2019)
   - [August 27 2019](#august-27-2019)
   - [August 29 2019](#august-29-2019)
@@ -24,7 +25,12 @@
 
 - Joi Ito posts an
   [apology regarding Jeffrey Epstein](https://www.media.mit.edu/posts/my-apology-regarding-jeffrey-epstein/)
-  on the Media Lab's website
+  on the Media Lab's website.
+
+## August 20 2019
+
+- Ethan Zuckerman
+  [announces his resignation from the Media Lab](https://web.archive.org/web/20190821144626/http://www.ethanzuckerman.com/blog/2019/08/20/on-me-and-the-media-lab/).
 
 ## August 23 2019
 
@@ -72,6 +78,8 @@
 
 ## September 6 2019
 
+- Anand Giridharadas
+  [withdraws as a Disobedience Award juror](https://twitter.com/AnandWrites/status/1169947031806365696).
 - Ronan Farrow publishes
   [How An Élite University Research Center Concealed Its Relationship with Jeffrey Epstein](https://web.archive.org/web/20190907033117/https://www.newyorker.com/news/news-desk/how-an-elite-university-research-center-concealed-its-relationship-with-jeffrey-epstein)
   in the New Yorker. This article contains many allegations that are in conflict with
@@ -85,6 +93,16 @@
   [Fact Finding and action on the Media Lab](https://web.archive.org/web/20190907230816/https://president.mit.edu/speeches-writing/fact-finding-and-action-media-lab),
   announcing "an immediate, thorough and independent investigation" into the allegations
   made in Farrow's article.
+- wesupportjoi.org is taken down.
+- Some of those who previously supported Ito withdraw or clarify their support
+  - Jonathon Zittrain
+    [commnts on twitter](https://twitter.com/zittrain/status/1170380812493230080),
+    writing "I was wrong to sign the letter because it backgrounded the injury Epstein
+    wrought... and because it may have appeared that any support would be unconditional
+    and forever. I’m sorry."
+  - Mary Lou Jepsen publishes
+    [MIT Media Lab’s Joi Ito out in disgrace & there is more to do](https://medium.com/@maryloujepsen/mit-media-labs-joi-ito-out-in-disgrace-there-is-more-to-do-a12017a8e13a),
+    stating " I was too trusting and was wrong".
 
 # Thanks and recognition
 
