@@ -12,6 +12,7 @@
   - [September 4 2019](#september-4-2019)
   - [September 6 2019](#september-6-2019)
   - [September 7 2019](#september-7-2019)
+- [Thanks and recognition](#thanks-and-recognition)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -54,7 +55,7 @@
 
 ## August 29 2019
 
-- Awra Mboya publishes
+- Arwa Mboya publishes
   [Why Joi Ito needs to resign](https://web.archive.org/web/20190829134632/https://thetech.com/2019/08/29/joi-ito-needs-to-resign)
   as a guest column in The Tech, MIT's student newspaper.
 
@@ -84,3 +85,10 @@
   [Fact Finding and action on the Media Lab](https://web.archive.org/web/20190907230816/https://president.mit.edu/speeches-writing/fact-finding-and-action-media-lab),
   announcing "an immediate, thorough and independent investigation" into the allegations
   made in Farrow's article.
+
+# Thanks and recognition
+
+Thanks and recognition to all those whose actions of speaking up, reporting, etc made
+this timeline possible. Special thanks to [Arwa Mboya](https://virtuallyari.com/), a
+Masters student at the Media Lab, and Signe Swenson, a former MIT employee and major
+source for Farrow's article.
