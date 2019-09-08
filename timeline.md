@@ -15,6 +15,7 @@
   - [September 4 2019](#september-4-2019)
   - [September 6 2019](#september-6-2019)
   - [September 7 2019](#september-7-2019)
+  - [September 8 2019](#september-8-2019)
 - [Thanks and recognition](#thanks-and-recognition)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -117,6 +118,13 @@
   - Mary Lou Jepsen publishes
     [MIT Media Lab’s Joi Ito out in disgrace & there is more to do](https://medium.com/@maryloujepsen/mit-media-labs-joi-ito-out-in-disgrace-there-is-more-to-do-a12017a8e13a),
     stating " I was too trusting and was wrong".
+
+## September 8 2019
+
+- Lawrence Lessig publishes On
+  [Joi and MIT](https://medium.com/@lessig/on-joi-and-mit-3cb422fe5ae7), says "I had
+  wanted, in the spirit of the Net, to respond and explain then. I was asked by Joi’s
+  friends not to... MIT is less now that Joi is gone."
 
 # Thanks and recognition
 
