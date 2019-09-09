@@ -48,6 +48,8 @@
   stating "we the undersigned, attest not only to Joi’s talent in managing one of the
   most complex and multidisciplinary research organizations in the world, but also, and
   more importantly, to his character: thoughtful, humble, principled, and generous".
+  There are
+  [over two hundred signatories](https://github.com/snakescott/wedontsupportjoi/blob/master/data/signatories.json).
   High profile signatories include
   - Mary Lou Jepsen
   - George Church
@@ -110,16 +112,20 @@
     writing "I was wrong to sign the letter because it backgrounded the injury Epstein
     wrought... and because it may have appeared that any support would be unconditional
     and forever. I’m sorry."
+- Signatory Sean Bonner
+  [agress with Zittrain](https://twitter.com/seanbonner/status/1170466957172203520).
   - Mary Lou Jepsen publishes
     [MIT Media Lab’s Joi Ito out in disgrace & there is more to do](https://medium.com/@maryloujepsen/mit-media-labs-joi-ito-out-in-disgrace-there-is-more-to-do-a12017a8e13a),
     stating " I was too trusting and was wrong".
 
 ## September 8 2019
 
-- Lawrence Lessig publishes On
-  [Joi and MIT](https://medium.com/@lessig/on-joi-and-mit-3cb422fe5ae7), says "I had
+- Lawrence Lessig publishes
+  [On Joi and MIT](https://medium.com/@lessig/on-joi-and-mit-3cb422fe5ae7), says "I had
   wanted, in the spirit of the Net, to respond and explain then. I was asked by Joi’s
   friends not to... MIT is less now that Joi is gone."
+- Signatory Brian Behlendorf
+  [agrees with Zittrain](https://twitter.com/brianbehlendorf/status/1170929938653802506).
 
 # Thanks and recognition
 
