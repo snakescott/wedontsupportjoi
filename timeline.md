@@ -11,7 +11,6 @@
   - [August 27 2019](#august-27-2019)
   - [August 28 2019](#august-28-2019)
   - [August 29 2019](#august-29-2019)
-  - [August 30 2019](#august-30-2019)
   - [September 4 2019](#september-4-2019)
   - [September 6 2019](#september-6-2019)
   - [September 7 2019](#september-7-2019)
@@ -75,10 +74,6 @@
 - Arwa Mboya publishes
   [Why Joi Ito needs to resign](https://web.archive.org/web/20190829134632/https://thetech.com/2019/08/29/joi-ito-needs-to-resign)
   as a guest column in The Tech, MIT's student newspaper.
-
-## August 30 2019
-
-- Professor Leslie Kaelbling adds her name to wesupportjoi.org
 
 ## September 4 2019
 
